@@ -1,5 +1,3 @@
 # Sentiment-Analyser
-To build a model which is trained on IMDb database and predicts whether sentence is positive or negative.
+The Aim of this project is to create a sentiment analyzer which takes as input, a tweet about a given movie and as an output tells whether the sentiment of the tweet was positive or negative.
 
-Link to the colab notebook
-https://colab.research.google.com/drive/1efhpAmgJDVRJS-vkyULy8syLn9c_p4Fc
